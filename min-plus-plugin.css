@@ -1,0 +1,32 @@
+message {
+	display: block;
+	padding: 2em;
+	background: #def;
+	border-left: 5px solid #44e;
+}
+
+.warning {
+	border-color: #e44; 
+	background: #fdd;
+}
+
+.great {
+	border-color: #2d2;
+	background: #dfd;
+}
+
+input.great {
+  background: #efe;
+}
+
+input.warning {
+  background: #fee;
+}
+
+input.input-lg {
+  font-size: 18px;
+}
+
+input.input-sm {
+  font-size: 11px;
+}
