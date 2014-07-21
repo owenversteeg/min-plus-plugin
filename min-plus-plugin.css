@@ -14,19 +14,3 @@ message {
 	border-color: #2d2;
 	background: #dfd;
 }
-
-input.great {
-  background: #efe;
-}
-
-input.warning {
-  background: #fee;
-}
-
-input.input-lg {
-  font-size: 18px;
-}
-
-input.input-sm {
-  font-size: 11px;
-}
